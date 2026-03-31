@@ -29,6 +29,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.split.contact {
+    border-left: none !important;
+}
+
 body {
 	line-height: 1;
 }
