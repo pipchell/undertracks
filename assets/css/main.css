@@ -33,6 +33,10 @@ footer, header, hgroup, menu, nav, section {
     border-left: none !important;
 }
 
+.split.contact > section {
+    border-left: none !important;
+}
+
 body {
 	line-height: 1;
 }
