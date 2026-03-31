@@ -37,6 +37,10 @@ footer, header, hgroup, menu, nav, section {
     border-left: none !important;
 }
 
+.split.contact {
+    display: block;
+}
+
 body {
 	line-height: 1;
 }
