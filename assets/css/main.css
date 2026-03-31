@@ -4699,3 +4699,22 @@ input, select, textarea {
 		}
 
 	}
+
+
+/* Remove vertical divider in footer */
+#footer {
+    border-top: none !important;
+}
+
+#footer .split {
+    border-left: none !important;
+}
+
+#footer .split > section {
+    border-left: none !important;
+}
+
+/* THIS is usually the real culprit */
+#footer > * {
+    border-left: none !important;
+}
